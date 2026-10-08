@@ -11,10 +11,17 @@ Original work:
 
 ## File Description
 
-- ```finetune_q1-q3.ipynb```: File for Question 1 to Question 3 in Assignment 1.
-- ```finetune_q4.ipynb```: File for Question 4 in Assignment 1.
+Completed assignment files for submission are in [`submission/`](submission/), ordered by question number:
 
-The two ```.ipynb``` files can be run independently.
+| Questions | File |
+| --- | --- |
+| Q1–Q2 | [q1_q2_notebook.ipynb](submission/q1_q2_notebook.ipynb) |
+| Q1–Q3 (T4) | [q1_q3_finetune_t4.ipynb](submission/q1_q3_finetune_t4.ipynb) |
+| Q3 plotting notebook | [q3_barchart_plot.ipynb](submission/q3_barchart_plot.ipynb) |
+| Q3 accuracy chart | [q3_accuracy.png](submission/q3_accuracy.png) |
+| Q4 | [q4_finetune_kaggle.ipynb](submission/q4_finetune_kaggle.ipynb) |
+
+The original reference notebooks `finetune_q1-q3.ipynb` and `finetune_q4.ipynb` remain in the repository root.
 
 ## Code Description
 
